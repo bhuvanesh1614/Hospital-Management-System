@@ -87,6 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/64cf3bef-64d7-4526-8ae9-cf9806368862" />
 
 
 # ACTIVITY DIAGRAM:
@@ -101,7 +102,6 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/64cf3bef-64d7-4526-8ae9-cf9806368862" />
 
 
 
